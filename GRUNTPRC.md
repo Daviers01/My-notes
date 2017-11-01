@@ -6,7 +6,7 @@ It is like a setup or configuration in your project, you will just do it once in
 ### Procedures
 
 1. Install first all the necessary packages for grunt to run.
-Make sure the nodeJS is installed and https://nodejs.org/en/download/
+Make sure the nodeJS is installed (download it here -> https://nodejs.org/en/download/)
 Once the nodeJS is installed, you can run the following commands:
 * ``npm install -g grunt-cli`` // the grunt command line interface
 * ``npm init`` // initialize the project, it will produce package.js on the root folder
